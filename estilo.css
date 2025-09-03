@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(230, 106, 106);
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+h3 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.foto {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  font-family: verdana;
+  text-align: center;
+}
+
+ul {
+  font-family: verdana;
+}
