@@ -1,14 +1,14 @@
 body {
-  background-color: rgb(230, 106, 106);
+  background-color: rgb(120, 22, 22);
 }
 
 h2 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
 h3 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -18,10 +18,12 @@ h3 {
 }
 
 p {
+    color: rgb(255, 255, 255);
   font-family: verdana;
   text-align: center;
 }
 
 ul {
+    color: rgb(255, 255, 255);
   font-family: verdana;
 }
